@@ -747,24 +747,24 @@ nav{
     }
 
     .home button{
-        left: 40%;
+        left: 35%;
     }
     .review-slider .swiper-slide{
         width: 250px;
     }
     .review-slider .swiper-slide img{
-        left: 75px;
+        left: 55px;
     }
     .review-slider .swiper-slide p{
         font-size: 14px;
     }
     .review-slider .swiper-slide h3{
         top: 230px;
-        left: 120px;
+        left: 105px;
     }
     .review-slider .swiper-slide .stars{
         top: 260px;
-        left: 100px;
+        left: 90px;
     }
     .product .product-slider .boxthree h4{
         left: 140px;
@@ -778,5 +778,7 @@ nav{
     .product .product-slider .boxthree button{
         left: 140px;
     }
-   
+    .icons{
+        margin-right: 20px;
+    }
 }
