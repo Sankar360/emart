@@ -753,30 +753,30 @@ nav{
         width: 250px;
     }
     .review-slider .swiper-slide img{
-        left: 55px;
+        left: 45px;
     }
     .review-slider .swiper-slide p{
         font-size: 14px;
     }
     .review-slider .swiper-slide h3{
         top: 230px;
-        left: 105px;
+        left: 100px;
     }
     .review-slider .swiper-slide .stars{
         top: 260px;
-        left: 90px;
+        left: 85px;
     }
     .product .product-slider .boxthree h4{
-        left: 140px;
+        left: 120px;
     }
     .product .product-slider .boxthree p{
-        left: 150px;
+        left: 140px;
     }
     .product .product-slider .boxthree .stars{
-        left: 125px;
+        left: 115px;
     }
     .product .product-slider .boxthree button{
-        left: 140px;
+        left: 130px;
     }
     .icons{
         margin-right: 20px;
@@ -786,45 +786,46 @@ nav{
 
 @media (max-width:300px){
     .home .img{
-        width: 100%;
+        background: url('images/landingpage.jpg');
     }
     .home .p p:last-child{
         left: 13%;
     }
 
     .home button{
-        left: 30%;
+        top: 550px;
+        left: 25%;
     }
     .review-slider .swiper-slide{
         width: 250px;
     }
     .review-slider .swiper-slide img{
-        left: 55px;
+        left: 45px;
     }
     .review-slider .swiper-slide p{
         font-size: 14px;
     }
     .review-slider .swiper-slide h3{
         top: 230px;
-        left: 105px;
+        left: 100px;
     }
     .review-slider .swiper-slide .stars{
         top: 260px;
-        left: 90px;
+        left: 85px;
     }
     .product .product-slider .boxthree h4{
-        left: 120px;
+        left: 100px;
     }
     .product .product-slider .boxthree p{
-        left: 135px;
+        left: 120px;
     }
     .product .product-slider .boxthree .stars{
-        left: 110px;
+        left: 100px;
     }
     .product .product-slider .boxthree button{
-        left: 125px;
+        left: 110px;
     }
     .icons{
-        margin-right: 35px;
+        margin-right: 55px;
     }
 }
